@@ -6,8 +6,8 @@ Sitio web estático desarrollado en **HTML**, **CSS** y **JavaScript** para prom
 
 ## 🔗 Demo
 
-👉 *[Próximamente en GitHub Pages](https://tuusuario.github.io/entrenador-personal)*  
-> *(Reemplaza este enlace cuando publiques el sitio)*
+Visita la preview
+👉 https://NotExer.github.io/JulianRpo-Trainer
 
 ---
 
