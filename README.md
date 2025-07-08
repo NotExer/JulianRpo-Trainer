@@ -60,5 +60,5 @@ Puedes encontrarme en:
 Si deseas modificar el sitio en tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/entrenador-personal.git
+git clone https://github.com/NotExer/entrenador-personal.git
 cd entrenador-personal
