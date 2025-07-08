@@ -100,7 +100,7 @@ h1 {
   font-size: 3rem;
 }
 h2 {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 h3 {
   font-size: 1.85rem;
@@ -1137,7 +1137,7 @@ section:nth-child(odd) {
   background-color: #262626;
 }
 section.has-bg-img {
-  background-image: url(../imgs/wallpaper.webp);
+  background-image: url(../imgs/wallpaper.jpeg);
   background-size: cover;
   background-position: center;
   min-height: 450px;
@@ -1265,7 +1265,8 @@ body {
   text-align: center;
 }
 .custom-plans-title {
-  font-size: 2rem;
+  font-size: 3rem;
+  font-weight: 600;
   margin-bottom: 30px;
   color: #fff;
 }
